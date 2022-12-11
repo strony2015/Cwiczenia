@@ -8,9 +8,9 @@
 </head>
 <body>
 Tabela Dabrowski
-<A HREF="Index_123456.html"> Wroc </A>
+<A HREF="index.html"> Wroc </A>
 
-<table border=2 BORDERCOLOR="orange"> <caption>Tabela Flis</caption> 
+<table border=2 BORDERCOLOR="orange"> <caption>Tabela Dabrowski</caption> 
 <thead>
 <tr> 
 <td colspan="5" align="center"><font face="Calibri">Dane komputerowe &mdash; Krystian Dąbrowski 2G_g1</td>
